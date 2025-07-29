@@ -36,11 +36,16 @@ Instead, this repository contains:
 
 > If you'd like access to the full working project with all images and data, feel free to contact me.
 
+#Website Overview
+
 ![Web Screenshot](Picture1.jpg)
+
+
+#App Overview
 
 ![App Screenshot](Picture2.jpg)
 
-[Download Project PPT](major_ppt.pptx)
+[Download PPT](major_ppt.pptx)
 
 
 
