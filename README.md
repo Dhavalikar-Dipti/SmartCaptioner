@@ -39,6 +39,8 @@ Instead, this repository contains:
 
 > If you'd like access to the full working project with all images and data, feel free to contact me.
 
+
+
 # Website Overview
 
 ![Web Screenshot](Picture1.jpg)
