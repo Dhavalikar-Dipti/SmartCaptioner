@@ -19,8 +19,11 @@ The project uses CLIP (Contrastive Language–Image Pretraining) from OpenAI to 
 ## Future Enhancements
 
 Add multilingual caption support
+
 Let users vote or like captions
+
 Fine-tune CLIP or use other vision-language models for better accuracy
+
 Add user profiles to save captions or recent uploads
 
 
