@@ -12,11 +12,11 @@
 - Fully functional **Android app built using Kodular**
 
 
-##AI Model - CLIP
+## AI Model - CLIP
 
 The project uses CLIP (Contrastive Language–Image Pretraining) from OpenAI to classify the uploaded image into one of the 16 categories. Based on the predicted category, the app randomly selects 5 captions from a curated text file containing category-specific captions.
 
-##Future Enhancements
+## Future Enhancements
 
 Add multilingual caption support
 Let users vote or like captions
@@ -36,12 +36,12 @@ Instead, this repository contains:
 
 > If you'd like access to the full working project with all images and data, feel free to contact me.
 
-#Website Overview
+# Website Overview
 
 ![Web Screenshot](Picture1.jpg)
 
 
-#App Overview
+# App Overview
 
 ![App Screenshot](Picture2.jpg)
 
